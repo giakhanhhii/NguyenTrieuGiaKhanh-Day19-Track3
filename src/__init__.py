@@ -1,0 +1,1 @@
+"""GraphRAG lab package."""

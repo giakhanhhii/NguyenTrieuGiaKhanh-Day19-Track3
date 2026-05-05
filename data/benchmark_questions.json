@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": "single_hop",
+    "question": "Who founded OpenAI?",
+    "ground_truth": "Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, John Schulman"
+  },
+  {
+    "id": 2,
+    "category": "single_hop",
+    "question": "When was OpenAI founded?",
+    "ground_truth": "2015"
+  },
+  {
+    "id": 3,
+    "category": "single_hop",
+    "question": "Who is the CEO of Google?",
+    "ground_truth": "Sundar Pichai"
+  },
+  {
+    "id": 4,
+    "category": "single_hop",
+    "question": "Which company acquired GitHub?",
+    "ground_truth": "Microsoft"
+  },
+  {
+    "id": 5,
+    "category": "single_hop",
+    "question": "Where is Apple headquartered?",
+    "ground_truth": "Cupertino"
+  },
+  {
+    "id": 6,
+    "category": "single_hop",
+    "question": "Which product was launched by Anthropic?",
+    "ground_truth": "Claude"
+  },
+  {
+    "id": 7,
+    "category": "two_hop",
+    "question": "Who founded the company that acquired Instagram?",
+    "ground_truth": "Mark Zuckerberg"
+  },
+  {
+    "id": 8,
+    "category": "two_hop",
+    "question": "Who is the CEO of the company that invested in OpenAI?",
+    "ground_truth": "Satya Nadella"
+  },
+  {
+    "id": 9,
+    "category": "two_hop",
+    "question": "Who founded the company that acquired YouTube?",
+    "ground_truth": "Larry Page, Sergey Brin"
+  },
+  {
+    "id": 10,
+    "category": "two_hop",
+    "question": "Who founded the company that acquired LinkedIn?",
+    "ground_truth": "Bill Gates, Paul Allen"
+  },
+  {
+    "id": 11,
+    "category": "two_hop",
+    "question": "Which city is the company that launched ChatGPT headquartered in?",
+    "ground_truth": "San Francisco"
+  },
+  {
+    "id": 12,
+    "category": "two_hop",
+    "question": "Which company acquired the company founded by Kevin Systrom?",
+    "ground_truth": "Meta"
+  },
+  {
+    "id": 13,
+    "category": "multi_hop",
+    "question": "Who is the CEO of the company that acquired the company founded by Chad Hurley?",
+    "ground_truth": "Sundar Pichai"
+  },
+  {
+    "id": 14,
+    "category": "multi_hop",
+    "question": "Which company invested in the company that launched Claude?",
+    "ground_truth": "Amazon"
+  },
+  {
+    "id": 15,
+    "category": "multi_hop",
+    "question": "Who founded the company that invested in the company that launched Claude?",
+    "ground_truth": "Jeff Bezos"
+  },
+  {
+    "id": 16,
+    "category": "multi_hop",
+    "question": "Which company owns the product ecosystem associated with the company acquired by Google in 2014?",
+    "ground_truth": "Google"
+  },
+  {
+    "id": 17,
+    "category": "multi_hop",
+    "question": "Who is the CEO of the company founded by Bill Gates?",
+    "ground_truth": "Satya Nadella"
+  },
+  {
+    "id": 18,
+    "category": "multi_hop",
+    "question": "Who founded the company that launched the iPhone?",
+    "ground_truth": "Steve Jobs, Steve Wozniak, Ronald Wayne"
+  },
+  {
+    "id": 19,
+    "category": "multi_hop",
+    "question": "Which company acquired the company founded by Reid Hoffman?",
+    "ground_truth": "Microsoft"
+  },
+  {
+    "id": 20,
+    "category": "multi_hop",
+    "question": "Which city is the company that acquired Twitch headquartered in?",
+    "ground_truth": "Seattle"
+  }
+]

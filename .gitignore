@@ -1,0 +1,15 @@
+# Secrets and local environment
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Matplotlib cache
+.mplcache/
+
+# Virtual environments
+.venv/
+venv/
+env/

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "doc_01",
+    "title": "OpenAI profile",
+    "text": "OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman in 2015. OpenAI is headquartered in San Francisco. Sam Altman is the CEO of OpenAI. Microsoft invested in OpenAI in 2023. ChatGPT was launched by OpenAI in 2022."
+  },
+  {
+    "id": "doc_02",
+    "title": "Google profile",
+    "text": "Google was founded by Larry Page and Sergey Brin in 1998. Sundar Pichai is the CEO of Google. Google acquired YouTube in 2006. Google acquired DeepMind in 2014. Google owns Android. Google is headquartered in Mountain View."
+  },
+  {
+    "id": "doc_03",
+    "title": "DeepMind profile",
+    "text": "DeepMind was founded by Demis Hassabis, Shane Legg, and Mustafa Suleyman in 2010. DeepMind is headquartered in London."
+  },
+  {
+    "id": "doc_04",
+    "title": "Microsoft profile",
+    "text": "Microsoft was founded by Bill Gates and Paul Allen in 1975. Satya Nadella is the CEO of Microsoft. Microsoft acquired GitHub in 2018. Microsoft acquired LinkedIn in 2016. Microsoft is headquartered in Redmond."
+  },
+  {
+    "id": "doc_05",
+    "title": "GitHub profile",
+    "text": "GitHub was founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett in 2008. GitHub is headquartered in San Francisco."
+  },
+  {
+    "id": "doc_06",
+    "title": "Meta profile",
+    "text": "Meta was founded by Mark Zuckerberg in 2004. Mark Zuckerberg is the CEO of Meta. Meta acquired Instagram in 2012. Meta acquired WhatsApp in 2014. Meta is headquartered in Menlo Park."
+  },
+  {
+    "id": "doc_07",
+    "title": "Instagram profile",
+    "text": "Instagram was founded by Kevin Systrom and Mike Krieger in 2010. Instagram is headquartered in Menlo Park."
+  },
+  {
+    "id": "doc_08",
+    "title": "WhatsApp profile",
+    "text": "WhatsApp was founded by Jan Koum and Brian Acton in 2009. WhatsApp is headquartered in Mountain View."
+  },
+  {
+    "id": "doc_09",
+    "title": "Amazon profile",
+    "text": "Amazon was founded by Jeff Bezos in 1994. Andy Jassy is the CEO of Amazon. Amazon acquired Twitch in 2014. Amazon invested in Anthropic in 2023. Amazon is headquartered in Seattle."
+  },
+  {
+    "id": "doc_10",
+    "title": "Twitch profile",
+    "text": "Twitch was founded by Justin Kan and Emmett Shear in 2011. Twitch is headquartered in San Francisco."
+  },
+  {
+    "id": "doc_11",
+    "title": "Apple profile",
+    "text": "Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976. Tim Cook is the CEO of Apple. iPhone was launched by Apple in 2007. Apple is headquartered in Cupertino."
+  },
+  {
+    "id": "doc_12",
+    "title": "Tesla profile",
+    "text": "Tesla was founded by Martin Eberhard and Marc Tarpenning in 2003. Elon Musk is the CEO of Tesla. Tesla acquired SolarCity in 2016. Tesla is headquartered in Austin."
+  },
+  {
+    "id": "doc_13",
+    "title": "NVIDIA profile",
+    "text": "NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem in 1993. Jensen Huang is the CEO of NVIDIA. NVIDIA acquired Mellanox in 2020. NVIDIA is headquartered in Santa Clara."
+  },
+  {
+    "id": "doc_14",
+    "title": "Anthropic profile",
+    "text": "Anthropic was founded by Dario Amodei and Daniela Amodei in 2021. Anthropic is headquartered in San Francisco. Claude was launched by Anthropic in 2023."
+  },
+  {
+    "id": "doc_15",
+    "title": "LinkedIn profile",
+    "text": "LinkedIn was founded by Reid Hoffman in 2002. LinkedIn is headquartered in Sunnyvale."
+  },
+  {
+    "id": "doc_16",
+    "title": "YouTube profile",
+    "text": "YouTube was founded by Chad Hurley, Steve Chen, and Jawed Karim in 2005. YouTube is headquartered in San Bruno."
+  }
+]

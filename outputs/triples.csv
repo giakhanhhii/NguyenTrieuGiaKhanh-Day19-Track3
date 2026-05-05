@@ -1,0 +1,110 @@
+head,relation,tail,source_text
+OpenAI,FOUNDED_BY,Sam Altman,"OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman in 2015."
+OpenAI,FOUNDED_BY,Elon Musk,"OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman in 2015."
+OpenAI,FOUNDED_BY,Greg Brockman,"OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman in 2015."
+OpenAI,FOUNDED_BY,Ilya Sutskever,"OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman in 2015."
+OpenAI,FOUNDED_BY,Wojciech Zaremba,"OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman in 2015."
+OpenAI,FOUNDED_BY,John Schulman,"OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman in 2015."
+OpenAI,FOUNDED_IN,2015,"OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman in 2015."
+OpenAI,HEADQUARTERED_IN,San Francisco,OpenAI is headquartered in San Francisco.
+Sam Altman,CEO_OF,OpenAI,Sam Altman is the CEO of OpenAI.
+Microsoft,INVESTED_IN,OpenAI,Microsoft invested in OpenAI in 2023.
+Microsoft,INVESTMENT_YEAR,2023,Microsoft invested in OpenAI in 2023.
+ChatGPT,LAUNCHED_BY,OpenAI,ChatGPT was launched by OpenAI in 2022.
+ChatGPT,LAUNCHED_IN,2022,ChatGPT was launched by OpenAI in 2022.
+Google,FOUNDED_BY,Larry Page,Google was founded by Larry Page and Sergey Brin in 1998.
+Google,FOUNDED_BY,Sergey Brin,Google was founded by Larry Page and Sergey Brin in 1998.
+Google,FOUNDED_IN,1998,Google was founded by Larry Page and Sergey Brin in 1998.
+Sundar Pichai,CEO_OF,Google,Sundar Pichai is the CEO of Google.
+Google,ACQUIRED,YouTube,Google acquired YouTube in 2006.
+Google,ACQUIRED_IN,2006,Google acquired YouTube in 2006.
+Google,ACQUIRED,Deepmind,Google acquired DeepMind in 2014.
+Google,ACQUIRED_IN,2014,Google acquired DeepMind in 2014.
+Google,OWNS,Android,Google owns Android.
+Google,HEADQUARTERED_IN,Mountain View,Google is headquartered in Mountain View.
+Deepmind,FOUNDED_BY,Demis Hassabis,"DeepMind was founded by Demis Hassabis, Shane Legg, and Mustafa Suleyman in 2010."
+Deepmind,FOUNDED_BY,Shane Legg,"DeepMind was founded by Demis Hassabis, Shane Legg, and Mustafa Suleyman in 2010."
+Deepmind,FOUNDED_BY,Mustafa Suleyman,"DeepMind was founded by Demis Hassabis, Shane Legg, and Mustafa Suleyman in 2010."
+Deepmind,FOUNDED_IN,2010,"DeepMind was founded by Demis Hassabis, Shane Legg, and Mustafa Suleyman in 2010."
+Deep Mind,HEADQUARTERED_IN,London,DeepMind is headquartered in London.
+Microsoft,FOUNDED_BY,Bill Gates,Microsoft was founded by Bill Gates and Paul Allen in 1975.
+Microsoft,FOUNDED_BY,Paul Allen,Microsoft was founded by Bill Gates and Paul Allen in 1975.
+Microsoft,FOUNDED_IN,1975,Microsoft was founded by Bill Gates and Paul Allen in 1975.
+Satya Nadella,CEO_OF,Microsoft,Satya Nadella is the CEO of Microsoft.
+Microsoft,ACQUIRED,GitHub,Microsoft acquired GitHub in 2018.
+GitHub,ACQUIRED_BY,Microsoft,Microsoft acquired GitHub in 2018.
+Microsoft,ACQUISITION_YEAR,2018,Microsoft acquired GitHub in 2018.
+Microsoft,ACQUIRED,LinkedIn,Microsoft acquired LinkedIn in 2016.
+Microsoft,ACQUIRED_IN,2016,Microsoft acquired LinkedIn in 2016.
+Microsoft,HEADQUARTERED_IN,Redmond,Microsoft is headquartered in Redmond.
+GitHub,FOUNDED_BY,Tom Preston-Werner,"GitHub was founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett in 2008."
+GitHub,FOUNDED_BY,Chris Wanstrath,"GitHub was founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett in 2008."
+GitHub,FOUNDED_BY,Pj Hyett,"GitHub was founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett in 2008."
+GitHub,FOUNDED_IN,2008,"GitHub was founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett in 2008."
+GitHub,HEADQUARTERED_IN,San Francisco,GitHub is headquartered in San Francisco.
+Meta,FOUNDED_BY,Mark Zuckerberg,Meta was founded by Mark Zuckerberg in 2004.
+Meta,FOUNDED_IN,2004,Meta was founded by Mark Zuckerberg in 2004.
+Mark Zuckerberg,CEO_OF,Meta,Mark Zuckerberg is the CEO of Meta.
+Meta,ACQUIRED,Instagram,Meta acquired Instagram in 2012.
+Instagram,ACQUIRED_IN,2012,Meta acquired Instagram in 2012.
+Meta,ACQUIRED,WhatsApp,Meta acquired WhatsApp in 2014.
+WhatsApp,ACQUIRED_IN,2014,Meta acquired WhatsApp in 2014.
+Meta,HEADQUARTERED_IN,Menlo Park,Meta is headquartered in Menlo Park.
+Instagram,FOUNDED_BY,Kevin Systrom,Instagram was founded by Kevin Systrom and Mike Krieger in 2010.
+Instagram,FOUNDED_BY,Mike Krieger,Instagram was founded by Kevin Systrom and Mike Krieger in 2010.
+Instagram,FOUNDED_IN,2010,Instagram was founded by Kevin Systrom and Mike Krieger in 2010.
+Instagram,HEADQUARTERED_IN,Menlo Park,Instagram is headquartered in Menlo Park.
+WhatsApp,FOUNDED_BY,Jan Koum,WhatsApp was founded by Jan Koum and Brian Acton in 2009.
+WhatsApp,FOUNDED_BY,Brian Acton,WhatsApp was founded by Jan Koum and Brian Acton in 2009.
+WhatsApp,FOUNDED_IN,2009,WhatsApp was founded by Jan Koum and Brian Acton in 2009.
+WhatsApp,HEADQUARTERED_IN,Mountain View,WhatsApp is headquartered in Mountain View.
+Amazon,FOUNDED_BY,Jeff Bezos,Amazon was founded by Jeff Bezos in 1994.
+Amazon,FOUNDED_IN,1994,Amazon was founded by Jeff Bezos in 1994.
+Andy Jassy,CEO_OF,Amazon,Andy Jassy is the CEO of Amazon.
+Amazon,ACQUIRED,Twitch,Amazon acquired Twitch in 2014.
+Twitch,ACQUIRED_BY,Amazon,Amazon acquired Twitch in 2014.
+Amazon,ACQUISITION_YEAR,2014,Amazon acquired Twitch in 2014.
+Amazon,INVESTED_IN,Anthropic,Amazon invested in Anthropic in 2023.
+Amazon,INVESTMENT_YEAR,2023,Amazon invested in Anthropic in 2023.
+Amazon,HEADQUARTERED_IN,Seattle,Amazon is headquartered in Seattle.
+Twitch,FOUNDED_BY,Justin Kan,Twitch was founded by Justin Kan and Emmett Shear in 2011.
+Twitch,FOUNDED_BY,Emmett Shear,Twitch was founded by Justin Kan and Emmett Shear in 2011.
+Twitch,FOUNDED_IN,2011,Twitch was founded by Justin Kan and Emmett Shear in 2011.
+Twitch,HEADQUARTERED_IN,San Francisco,Twitch is headquartered in San Francisco.
+Apple,FOUNDED_BY,Steve Jobs,"Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976."
+Apple,FOUNDED_BY,Steve Wozniak,"Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976."
+Apple,FOUNDED_BY,Ronald Wayne,"Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976."
+Apple,FOUNDED_IN,1976,"Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976."
+Tim Cook,CEO_OF,Apple,Tim Cook is the CEO of Apple.
+iPhone,LAUNCHED_BY,Apple,iPhone was launched by Apple in 2007.
+iPhone,LAUNCHED_IN,2007,iPhone was launched by Apple in 2007.
+Apple,HEADQUARTERED_IN,Cupertino,Apple is headquartered in Cupertino.
+Tesla,FOUNDED_BY,Martin Eberhard,Tesla was founded by Martin Eberhard and Marc Tarpenning in 2003.
+Tesla,FOUNDED_BY,Marc Tarpenning,Tesla was founded by Martin Eberhard and Marc Tarpenning in 2003.
+Tesla,FOUNDED_IN,2003,Tesla was founded by Martin Eberhard and Marc Tarpenning in 2003.
+Elon Musk,CEO_OF,Tesla,Elon Musk is the CEO of Tesla.
+Tesla,ACQUIRED,Solarcity,Tesla acquired SolarCity in 2016.
+Tesla,ACQUISITION_YEAR,2016,Tesla acquired SolarCity in 2016.
+Tesla,HEADQUARTERED_IN,Austin,Tesla is headquartered in Austin.
+NVIDIA,FOUNDED_BY,Jensen Huang,"NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem in 1993."
+NVIDIA,FOUNDED_BY,Chris Malachowsky,"NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem in 1993."
+NVIDIA,FOUNDED_BY,Curtis Priem,"NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem in 1993."
+NVIDIA,FOUNDED_IN,1993,"NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem in 1993."
+Jensen Huang,CEO_OF,NVIDIA,Jensen Huang is the CEO of NVIDIA.
+NVIDIA,ACQUIRED,Mellanox,NVIDIA acquired Mellanox in 2020.
+NVIDIA,ACQUISITION_YEAR,2020,NVIDIA acquired Mellanox in 2020.
+NVIDIA,HEADQUARTERED_IN,Santa Clara,NVIDIA is headquartered in Santa Clara.
+Anthropic,FOUNDED_BY,Dario Amodei,Anthropic was founded by Dario Amodei and Daniela Amodei in 2021.
+Anthropic,FOUNDED_BY,Daniela Amodei,Anthropic was founded by Dario Amodei and Daniela Amodei in 2021.
+Anthropic,FOUNDED_IN,2021,Anthropic was founded by Dario Amodei and Daniela Amodei in 2021.
+Anthropic,HEADQUARTERED_IN,San Francisco,Anthropic is headquartered in San Francisco.
+Claude,LAUNCHED_BY,Anthropic,Claude was launched by Anthropic in 2023.
+Claude,LAUNCHED_IN,2023,Claude was launched by Anthropic in 2023.
+LinkedIn,FOUNDED_BY,Reid Hoffman,LinkedIn was founded by Reid Hoffman in 2002.
+LinkedIn,FOUNDED_IN,2002,LinkedIn was founded by Reid Hoffman in 2002.
+LinkedIn,HEADQUARTERED_IN,Sunnyvale,LinkedIn is headquartered in Sunnyvale.
+YouTube,FOUNDED_BY,Chad Hurley,"YouTube was founded by Chad Hurley, Steve Chen, and Jawed Karim in 2005."
+YouTube,FOUNDED_BY,Steve Chen,"YouTube was founded by Chad Hurley, Steve Chen, and Jawed Karim in 2005."
+YouTube,FOUNDED_BY,Jawed Karim,"YouTube was founded by Chad Hurley, Steve Chen, and Jawed Karim in 2005."
+YouTube,FOUNDED_IN,2005,"YouTube was founded by Chad Hurley, Steve Chen, and Jawed Karim in 2005."
+YouTube,HEADQUARTERED_IN,San Bruno,YouTube is headquartered in San Bruno.

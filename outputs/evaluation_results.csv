@@ -1,0 +1,21 @@
+question_id,category,question,ground_truth,flat_rag_answer,graph_rag_answer,flat_correct,graph_correct,flat_failure_note
+1,single_hop,Who founded OpenAI?,"Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, John Schulman","Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, John Schulman","Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, John Schulman",True,True,
+2,single_hop,When was OpenAI founded?,2015,1994,2015,False,True,Flat RAG lay duoc van ban lien quan nhung khong noi dung quan he dung.
+3,single_hop,Who is the CEO of Google?,Sundar Pichai,Sundar Pichai,Sundar Pichai,True,True,
+4,single_hop,Which company acquired GitHub?,Microsoft,Microsoft,Microsoft,True,True,
+5,single_hop,Where is Apple headquartered?,Cupertino,Cupertino,Cupertino,True,True,
+6,single_hop,Which product was launched by Anthropic?,Claude,Claude,Claude,True,True,
+7,two_hop,Who founded the company that acquired Instagram?,Mark Zuckerberg,Meta,Mark Zuckerberg,False,True,Flat RAG lay duoc van ban lien quan nhung khong noi dung quan he dung.
+8,two_hop,Who is the CEO of the company that invested in OpenAI?,Satya Nadella,Satya Nadella,Satya Nadella,True,True,
+9,two_hop,Who founded the company that acquired YouTube?,"Larry Page, Sergey Brin",Insufficient retrieved context.,"Larry Page, Sergey Brin",False,True,Flat RAG khong lay duoc bang chung truc tiep cho cau two_hop.
+10,two_hop,Who founded the company that acquired LinkedIn?,"Bill Gates, Paul Allen",Microsoft,"Bill Gates, Paul Allen",False,True,Flat RAG lay duoc van ban lien quan nhung khong noi dung quan he dung.
+11,two_hop,Which city is the company that launched ChatGPT headquartered in?,San Francisco,Seattle,San Francisco,False,True,Flat RAG lay duoc van ban lien quan nhung khong noi dung quan he dung.
+12,two_hop,Which company acquired the company founded by Kevin Systrom?,Meta,Insufficient retrieved context.,Meta,False,True,Flat RAG khong lay duoc bang chung truc tiep cho cau two_hop.
+13,multi_hop,Who is the CEO of the company that acquired the company founded by Chad Hurley?,Sundar Pichai,Satya Nadella,Sundar Pichai,False,True,Flat RAG lay duoc van ban lien quan nhung khong noi dung quan he dung.
+14,multi_hop,Which company invested in the company that launched Claude?,Amazon,Amazon,Amazon,True,True,
+15,multi_hop,Who founded the company that invested in the company that launched Claude?,Jeff Bezos,Amazon,Jeff Bezos,False,True,Flat RAG lay duoc van ban lien quan nhung khong noi dung quan he dung.
+16,multi_hop,Which company owns the product ecosystem associated with the company acquired by Google in 2014?,Google,Insufficient retrieved context.,Google,False,True,Flat RAG khong lay duoc bang chung truc tiep cho cau multi_hop.
+17,multi_hop,Who is the CEO of the company founded by Bill Gates?,Satya Nadella,Satya Nadella,Satya Nadella,True,True,
+18,multi_hop,Who founded the company that launched the iPhone?,"Steve Jobs, Steve Wozniak, Ronald Wayne",Satya Nadella,"Steve Jobs, Steve Wozniak, Ronald Wayne",False,True,Flat RAG lay duoc van ban lien quan nhung khong noi dung quan he dung.
+19,multi_hop,Which company acquired the company founded by Reid Hoffman?,Microsoft,Insufficient retrieved context.,Microsoft,False,True,Flat RAG khong lay duoc bang chung truc tiep cho cau multi_hop.
+20,multi_hop,Which city is the company that acquired Twitch headquartered in?,Seattle,San Francisco,Seattle,False,True,Flat RAG lay duoc van ban lien quan nhung khong noi dung quan he dung.
